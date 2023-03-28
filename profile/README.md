@@ -1,4 +1,4 @@
-![Discord](https://img.shields.io/discord/853925850343538689?color=%2391BCE6&logo=discord&logoColor=%2391BCE6)
+[![Discord](https://img.shields.io/discord/853925850343538689?color=%2391BCE6&logo=discord&logoColor=%2391BCE6)](https://discord.gg/CV5ZDT9U5y)
 
 
 Human Solutions is a one-man company focused on creating human-centered software. 
